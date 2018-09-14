@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EYLog_Example' do
+  pod 'EYLog', :path => '../'
+
+  target 'EYLog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

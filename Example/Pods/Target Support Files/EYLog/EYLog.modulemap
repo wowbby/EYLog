@@ -1,0 +1,6 @@
+framework module EYLog {
+  umbrella header "EYLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
