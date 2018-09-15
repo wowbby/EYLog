@@ -39,15 +39,15 @@
 
 /* Begin PBXFileReference section */
 		033A214C2FB98ABD1D62C7CAED4CC520 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		077CB077CEB3824DD19F77DD6502683E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		077CB077CEB3824DD19F77DD6502683E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		09663AA4D3AB6B7A4E6B4AB9FA4B9D7A /* Pods-EYLog_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EYLog_Example.modulemap"; sourceTree = "<group>"; };
 		14818E129367146E3BE87877F6143660 /* Pods-EYLog_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EYLog_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		316713D91473C86A91503763C2450FAD /* Pods_EYLog_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EYLog_Example.framework; path = "Pods-EYLog_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		316713D91473C86A91503763C2450FAD /* Pods_EYLog_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EYLog_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3945043E4175F7EE00D28E7E1ABE2B22 /* Pods-EYLog_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EYLog_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		394DA2DAA266988454E049A26A23C855 /* EYLog.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EYLog.xcconfig; sourceTree = "<group>"; };
 		399CDD02C9D2D96E0C52ADB38BB2963A /* Pods-EYLog_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EYLog_Example-umbrella.h"; sourceTree = "<group>"; };
 		45C9CADEA5F30787D283D9DC280B6399 /* Pods-EYLog_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EYLog_Tests.modulemap"; sourceTree = "<group>"; };
-		47745DD7D20B9E9944181C2157B3A47B /* EYLog.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = EYLog.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		47745DD7D20B9E9944181C2157B3A47B /* EYLog.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = EYLog.podspec; sourceTree = "<group>"; };
 		48148F47F074808C375E1EE1A405C9D3 /* Pods-EYLog_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EYLog_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4C6821A2188C827563232137E57B83EB /* Pods-EYLog_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EYLog_Example-frameworks.sh"; sourceTree = "<group>"; };
 		56369D5FE00C0644038361286C98DD07 /* Pods-EYLog_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EYLog_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -56,24 +56,24 @@
 		6131CB156731DF8AC46B3902D9256F8D /* EYLog-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EYLog-dummy.m"; sourceTree = "<group>"; };
 		6EF77D8F9235811DE1841F542119077A /* Pods-EYLog_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EYLog_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		86B63C4414BF9CD404A985A90DCE2821 /* Pods-EYLog_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EYLog_Example-resources.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9579030C6FBC483B81929DF75E620F1E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95F2093FCFF48CED7C568B30DE4885F7 /* Pods-EYLog_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EYLog_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9D6D7488563D043456F3A39A23534E66 /* Pods-EYLog_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EYLog_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A69C228FD97EE18B35C8677DA013DF1B /* Pods-EYLog_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EYLog_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		A7EDA330A532DACEBA62556ADA9DC6BC /* EYLog.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = EYLog.modulemap; sourceTree = "<group>"; };
 		B016EE36268013C75D019118C3380EF1 /* Pods-EYLog_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EYLog_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B0CF912DBC91124B95495011DAE96E6A /* EYLog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = EYLog.framework; path = EYLog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0CF912DBC91124B95495011DAE96E6A /* EYLog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EYLog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9DE324F1D5322E857E94C064238F440 /* Pods-EYLog_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EYLog_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C784BE846820386A711DFBB5F364CEB4 /* Pods-EYLog_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EYLog_Tests-dummy.m"; sourceTree = "<group>"; };
-		D512FEEB3E67C35F85CAE712042673A9 /* Pods_EYLog_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EYLog_Tests.framework; path = "Pods-EYLog_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D512FEEB3E67C35F85CAE712042673A9 /* Pods_EYLog_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EYLog_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD91D1605202F0416022376F9F3BC26B /* EYStatistics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EYStatistics.h; path = EYLog/Classes/EYStatistics.h; sourceTree = "<group>"; };
 		E9C8A36476E324A64F91C3E5AA9B41A7 /* EYLog-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EYLog-prefix.pch"; sourceTree = "<group>"; };
 		EAEFEBCC3D33446253D69DEDDEB590CD /* Pods-EYLog_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EYLog_Example-dummy.m"; sourceTree = "<group>"; };
 		EB277A98E75D9D7424AF6B57AE62D1D8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED762FC705832EADC4B2B90AC51B95A4 /* EYStatistics.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EYStatistics.m; path = EYLog/Classes/EYStatistics.m; sourceTree = "<group>"; };
 		F5DF50E55ABD40DABD8EA87AF60F1B52 /* Pods-EYLog_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EYLog_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FD63ACE6C0D9134D5635E860A2DC0FE5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		FD63ACE6C0D9134D5635E860A2DC0FE5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
