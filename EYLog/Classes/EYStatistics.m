@@ -57,7 +57,7 @@
     }
     return _observers;
 }
-- (void)addLogModuleId:(NSNumber *)moduleId:(NSString *)format, ...
+- (void)addLogModuleId:(NSNumber *)moduleId format:(NSString *)format, ...
 {
 
     va_list args;

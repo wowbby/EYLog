@@ -49,7 +49,7 @@ typedef NS_ENUM(NSInteger, TestEvent) {
 
     [[EYStatistics shareStatistics] addEventObserver:self error:nil];
 
-    [[EYStatistics shareStatistics] addLogModuleId:@(10):@"这是一条普通日志信息"];
+    [[EYStatistics shareStatistics] addLogModuleId:@(10) format:@"这是一条普通日志信息"];
     [[EYStatistics shareStatistics] addEvent:1 moduleId:@(10) eventInfo:@{ @"message" : @"事件1" }];
     [[EYStatistics shareStatistics] addEvent:1 moduleId:@(10) eventInfo:@{ @"message" : @"事件1" }];
     [[EYStatistics shareStatistics] addEvent:1 moduleId:@(10) eventInfo:@{ @"message" : @"事件1" }];

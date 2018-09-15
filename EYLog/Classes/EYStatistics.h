@@ -34,7 +34,7 @@
 
  @param format 日志信息
  */
-- (void)addLogModuleId:(NSNumber *)moduleId:(NSString *)format, ...;
+- (void)addLogModuleId:(NSNumber *)moduleId format:(NSString *)format, ...;
 
 /**
  添加事件监听回调
